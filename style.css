@@ -1,0 +1,15 @@
+table, tr, td {
+    text-align: center;
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 10px 70px 10px ;
+    
+}
+
+img {
+    width: 200px;
+}
+
+span{
+    margin-right: 500px;
+}
